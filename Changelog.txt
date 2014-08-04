@@ -1,0 +1,23 @@
+1.1.2
+- Updated Lib Addon Menu to 1.0r8
+- Updated API Version to 100007
+
+1.1.1
+- Increased API Version
+
+1.1.0
+- Refactoring
+- Updated Lib Addon Menu to 1.0r7
+
+
+1.0.2
+- Configversion increased => Saved Variables will be reset to default.
+- Language settings will adopt to client language automatically.
+- Added command for local dice throw
+- Disabled all commands related to unsupported API functions.
+
+1.0.1
+Fixed typo in language settings
+
+1.0
+First Release
