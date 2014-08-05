@@ -1,3 +1,7 @@
+1.1.3
+- Updated API Version to 100008
+- Updated Lib Addon Menu to 2.0r14
+
 1.1.2
 - Updated Lib Addon Menu to 1.0r8
 - Updated API Version to 100007

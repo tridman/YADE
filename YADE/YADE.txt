@@ -1,11 +1,23 @@
 ## Title: YADE - Yet Another Dice Emulator
-## APIVersion: 100007
-## Version: 1.1.2
+## APIVersion: 100008
+## Version: 1.1.3
 ## SavedVariables: YADE_Variables
 ## OptionalDependsOn: LibAddonMenu-1.0, LibStub
 
 lib\LibStub\LibStub.lua
-lib\LibAddonMenu-2.0\LibAddonMenu-1.0.lua
+lib\LibAddonMenu-2.0\LibAddonMenu-2.0.lua
+lib\LibAddonMenu-2.0\controls\panel.lua
+lib\LibAddonMenu-2.0\controls\submenu.lua
+lib\LibAddonMenu-2.0\controls\button.lua
+lib\LibAddonMenu-2.0\controls\checkbox.lua
+lib\LibAddonMenu-2.0\controls\colorpicker.lua
+lib\LibAddonMenu-2.0\controls\custom.lua
+lib\LibAddonMenu-2.0\controls\description.lua
+lib\LibAddonMenu-2.0\controls\dropdown.lua
+lib\LibAddonMenu-2.0\controls\editbox.lua
+lib\LibAddonMenu-2.0\controls\header.lua
+lib\LibAddonMenu-2.0\controls\slider.lua
+lib\LibAddonMenu-2.0\controls\texture.lua
 
 languages\en.lua
 languages\de.lua

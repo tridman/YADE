@@ -39,7 +39,8 @@ function YADE.init()
    
     
   YADE.SetCommands()
-  YADE_Menu.CreateOptions()
+  --YADE_Menu.CreateOptions()
+  YADE.Menu:CreateOptions()
   
 end
 
