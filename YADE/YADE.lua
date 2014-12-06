@@ -9,7 +9,7 @@ A simple addon providing the possibility to simulate dice throws in different ch
 
 
 YADE = {}
-YADE.version = "1.1.4"
+YADE.version = "1.1.5"
 YADE.configversion = 1.1
 YADE.addonname = "YADE"
 YADE.wordlist = {}
