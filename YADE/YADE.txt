@@ -1,6 +1,7 @@
 ## Title: YADE - Yet Another Dice Emulator
-## APIVersion: 100010
-## Version: 1.1.5
+## Author: tridman
+## APIVersion: 100011
+## Version: 1.1.6
 ## SavedVariables: YADE_Variables
 ## OptionalDependsOn: LibAddonMenu-1.0, LibStub
 
