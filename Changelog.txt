@@ -1,3 +1,7 @@
+INWORK: 1.1.6
+- Updated LibAddonMenu component to V2.0r17
+- Updated API-Version to 100011
+
 1.1.5
 - Updated LibAddonMenu to 2.0r16
 - Updated API-Version to 100010
