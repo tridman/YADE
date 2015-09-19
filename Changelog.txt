@@ -1,3 +1,7 @@
+1.1.7
+- Updated API-Version to 100012
+- Updated LibAddonMenu to 2.0r18
+
 1.1.6
 - Updated LibAddonMenu component to V2.0r17
 - Updated API-Version to 100011
