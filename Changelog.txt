@@ -1,3 +1,7 @@
+1.1.9
+- Updated API-Version to 100014
+- Updated LibAddonMenu to 2.0r19
+
 1.1.8
 - Updated API-Version to 100013
 
